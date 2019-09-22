@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,Viasat Sport Baltic
-http://hop.02.lv/2NE
-#EXTINF:-1,Viasat Nature
-http://hop.02.lv/2NF
-#EXTINF:-1,Viasat History
-http://hop.02.lv/2NG
-#EXTINF:-1,Kanals 2
-http://hop.02.lv/2NH
-#EXTINF:-1,LNT Latvia
-http://hop.02.lv/2NI
 #EXTINF:-1,LTV1
-http://hop.02.lv/2NJ
-#EXTINF:-1,TV3 Latvia
-http://vipiptv.cf/0bf40581-c001-4145-aad3-2df742d672be
-#EXTINF:-1,TV6 Latvia
-http://hop.02.lv/2NL
+http://176.106.59.117:9981/stream/channelid/1149218812
+#EXTINF:-1,LTV7
+http://176.106.59.117:9981/stream/channelid/1017554193
+#EXTINF:-1,Re:TV
+http://176.106.59.117:9981/stream/channelid/1915929738
+#EXTINF:-1,Riga TV24
+http://176.106.59.117:9981/stream/channelid/1937739460
+#EXTINF:-1,TV
+http://176.106.59.117:9981/stream/channelid/1122361103
+#EXTINF:-1,TV
+http://176.106.59.117:9981/stream/channelid/2108281613
+#EXTINF:-1,LNT
+http://176.106.59.117:9981/stream/channelid/722385535
+#EXTINF:-1,Kanals 2
+http://176.106.59.117:9981/stream/channelid/859628494
