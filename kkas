@@ -1,17 +1,29 @@
 #EXTM3U
-#EXTINF:-1,LTV1
-http://176.106.59.117:9981/stream/channelid/1149218812
-#EXTINF:-1,LTV7
-http://176.106.59.117:9981/stream/channelid/1017554193
-#EXTINF:-1,Re:TV
-http://176.106.59.117:9981/stream/channelid/1915929738
-#EXTINF:-1,Riga TV24
-http://176.106.59.117:9981/stream/channelid/1937739460
-#EXTINF:-1,TV
-http://176.106.59.117:9981/stream/channelid/1122361103
-#EXTINF:-1,TV
-http://176.106.59.117:9981/stream/channelid/2108281613
-#EXTINF:-1,LNT
-http://176.106.59.117:9981/stream/channelid/722385535
-#EXTINF:-1,Kanals 2
-http://176.106.59.117:9981/stream/channelid/859628494
+#EXTINF:0,LTV 7
+http://dvb.gpsystems.lv:4242/bynumber/3
+#EXTINF:0,LV-LTV1
+http://dvb.gpsystems.lv:4242/bynumber/1?by_HasBahCa
+#EXTINF:0,LV-LTV1
+http://dvb.gpsystems.lv:4242/bysid/5110?by_HasBahCa
+#EXTINF:0,LV-LTV7
+http://dvb.gpsystems.lv:4242/bynumber/3?by_HasBahCa
+#EXTINF:0,LV-LTV7
+http://dvb.gpsystems.lv:4242/bysid/5130?by_HasBahCa
+#EXTINF:0,LV-OTV
+http://dvb.gpsystems.lv:4242/bysid/5150?by_HasBahCa
+#EXTINF:0,LV-OTV
+http://dvb.gpsystems.lv:4242/bynumber/5?by_HasBahCa
+#EXTINF:0,LV-Re:TV
+http://dvb.gpsystems.lv:4242/bynumber/2?by_HasBahCa
+#EXTINF:0,LV-Re:TV
+http://dvb.gpsystems.lv:4242/bysid/5120?by_HasBahCa
+#EXTINF:0,LV-Riga TV24
+http://dvb.gpsystems.lv:4242/bynumber/4?by_HasBahCa
+#EXTINF:0,LV-Riga TV24
+http://dvb.gpsystems.lv:4242/bysid/5140?by_HasBahCa
+#EXTINF:0,OTV
+http://dvb.gpsystems.lv:4242/bynumber/5
+#EXTINF:0,Re:TV
+http://dvb.gpsystems.lv:4242/bynumber/2
+#EXTINF:0,Riga TV24
+http://dvb.gpsystems.lv:4242/bynumber/4
