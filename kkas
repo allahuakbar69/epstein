@@ -9,5 +9,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 #EXTINF:-1 group-title="- IPTV webarmen.com/iptv",[Обновлён 23.09.2019 12:14]
 https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/177.png" group-title="Россия 1",Rev'n
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/177.png" group-title="Russia",Россия 1
 http://94.78.245.246:1234/udp/225.54.223.153:5000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Latvia",TV6
+https://cdn2.tvplayhome.lt/live/eds/TV6_LV_SD/HLS_encr/TV6_LV_SD.m3u8
